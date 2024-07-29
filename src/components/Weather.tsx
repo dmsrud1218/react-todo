@@ -28,7 +28,7 @@ const Weather: React.FC = () => {
 
   return (
     <div className="flex justify-between items-center border-b p-4">
-      <h1 className="text-xl font-bold">Seoul</h1>
+      <h1 className="text-xl font-bold">Seoul!!!</h1>
 
       <div className="flex items-center h-[44px]">
         {weather ? (
